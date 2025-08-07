@@ -1,5 +1,5 @@
 [package]
-name = "fn_macro"
+name = "derive_fn"
 version = "0.1.0"
 edition = "2024"
 description = "Macro to implement all three Fn traits"
