@@ -4,6 +4,9 @@ version = "0.1.0"
 edition = "2024"
 description = "Macro to implement all three Fn traits"
 readme = "readme.md"
+license = "MIT"
+keywords = ["macros"]
+categories = ["rust-patterns"]
 
 [lib]
 proc-macro = true
