@@ -6,7 +6,7 @@ This macro is comprised of four parts - the initial `derive`, and three attribut
 
 ```toml
 [dependencies]
-fn_macro = 0.1.0
+fn_macro = "0.1.0"
 ```
 
 ```rust
