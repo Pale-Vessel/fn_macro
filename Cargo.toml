@@ -7,6 +7,7 @@ readme = "readme.md"
 license = "MIT"
 keywords = ["macros"]
 categories = ["rust-patterns"]
+repository = "https://github.com/Pale-Vessel/fn_macro"
 
 [lib]
 proc-macro = true
